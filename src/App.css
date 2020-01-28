@@ -1,0 +1,17 @@
+.field-container {
+  margin-bottom: 20px;
+}
+
+.field-input {
+  display: block;
+}
+
+.form-submit {
+  display:block;
+}
+
+.error-alert {
+  font-size: 12px;
+  color: red;
+  font-weight: bold;
+}
